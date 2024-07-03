@@ -50,8 +50,6 @@ Here are free as in freedom non-GNU operating systems that respect your privacy.
 
 * [**Alpine Linux**](https://alpinelinux.org/) - Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and busybox. Out of all of the non-GNU distributions that exist so far, this one is probably the most popular.
 
-* [**Chimera Linux**](https://chimera-linux.org/) - Chimera is a modern and general-purpose non-GNU Linux distribution born from unhappiness with the state of other distributions. It's built around the core idea that a simple system does not have to require endless setup and customization to be practical.
-
 * [**BlissOS**](https://blissos.org) - BlissOS is an Android-based open source OS that incorporates many optimizations, features, and that supports many more devices.
 
 * [**Linux from Scratch**](https://www.linuxfromscratch.org/) - Feeling like binary distros are not enough for you? Linux from Scratch is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code. You can build non-GNU installation for your purposes and needs.
