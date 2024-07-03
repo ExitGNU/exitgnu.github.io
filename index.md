@@ -2,6 +2,8 @@
 
 This website was made to share alternatives to the GNU ecosystem and spread the word about Richard Stallman, the biggest monster in the free software community.
 
+[Here are my motivations for doing this. Please take some time to read it.](https://exitgnu.github.io/motivations)
+
 # Alternatives to the GNU ecosystem
 
 ## Core Utilities
