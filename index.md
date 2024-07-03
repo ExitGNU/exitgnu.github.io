@@ -1,10 +1,26 @@
 # ExitGNU
 
-Lorem ipsum
+This website was made to share alternatives to the GNU ecosystem and spread the word about Richard Stallman, the biggest monster in the free software community.
 
 # Motivation
 
-Motivations here
+My personal motivation for doing this alternatives website is to spread the cause that [Richard Stallman is a **monster** who maliciously ignores human common sense, and his fanatics are pretending they didn't see that.](https://rms-open-letter.github.io/appendix), I (fluffeon) as a sexual abuse survivor and mental health activist, these statements are objectively inhuman and repulsive.
+
+This isn't a biased statement, **this is a moral truth.** Rape can ruin someone's life and is the most vile form of endangerment to a person because it can traumatise someone for many years or even for life. Unfortunately, I passed through this and my life just became a lot more miserable and I got into very bad habits myself. Richard Stallman dessecrated and minimized this issue, and let's not forget that he called to abort fetuses with Down's syndrome which is bordering into eugenics at this point.
+
+I will not support any software that comes from the Free Software Foundation, until RMS and all of his board of directors are removed from their positions. So, I made this website.
+
+There are also practical reasons why you should probably consider avoiding GNU software:
+
+* The GNU codebase is extremely unoptimised, messy and bloated even for normal desktops, in most cases it sacrifices portability to POSIX and embedded systems. [These poor design choices eventually backfired, because now glibc-based distributions have been struck with a critical SSH exploit.](https://www.upwind.io/feed/regresshion-rce-in-opensshs-server-on-glibc-based-linux-systems-cve-2024-6387)
+
+* It does a lot of things at once and manages to be the best at none of them. 
+
+* [Tivoization. Also most of it is licensed with the very controversial GPLv3 (and by extent, the same nuances also apply to the LGPLv3 despite allowing linking with proprietary programs).](https://www.youtube.com/watch?v=PaKIZ7gJlRU)
+
+* It makes people build bad habits of accostuming to the GNU extensions, like Perl-specific constructs and GCC enhancements. This not only perpetuates the GNU ecosystem but it also sacrifices portability with everything else. A clear example of this is the GNU Compiler Collection and Bash, which extends way beyond POSIX.
+
+Of course, you may have your own motivations for avoiding GNU software and you are very much welcomed to share them as well. I'm pretty sure I'm not alone in this.
 
 # Alternatives to the GNU ecosystem
 
@@ -33,10 +49,12 @@ Motivations here
 ## Compilers
 
 * [**Tiny C Compiler**](https://bellard.org/tcc/) - Tiny C Compiler (TCC) is a minimal C compiler that can compile x86 and ARM code. This is my personal recommendation.
+
 * [**LLVM**](https://llvm.org/) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. It is well-known as the backbone of [**Clang**](https://clang.llvm.org/), a C compiler.
 
 Some programs won't compile well with TCC and/or Clang due to incompatible flags, different compiler interpretations of the code or in the case of Clang, produce wonky results. In practice, GCC and these compilers aren't perfect and you can be flexible with this.
-You can help by making more programs get along with TCC! It's faster, portable, smaller and linking is quicker than GCC.
+
+You can help by making more programs get along with TCC! It's faster, portable, smaller and linking is quicker than GCC and Clang.
 
 ## C Libraries
 
@@ -67,3 +85,8 @@ Here are free as in freedom non-GNU operating systems that respect your privacy.
 ## Text Editor
 
 As far as I know, there isn't a non-GNU implementation of Emacs.
+
+# Suggestions
+
+This is a community project! I know I talked a lot about myself here, but I don't want to be the only one yapping here. It would be very much appreciated if you help expand this site. You can suggest more alternatives, and other stuff. [Just open an issue or pull request!](https://github.com/ExitGNU/exitgnu.github.io)
+
