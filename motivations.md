@@ -1,12 +1,14 @@
 # Motivations
 
-## Know who you're being lead by
+## Know who you're being led by
 
 [Richard Stallman is a **monster** who maliciously ignores human common sense, and his fanatics are pretending they didn't see that.](https://rms-open-letter.github.io/appendix), I (fluffeon) as a sexual abuse survivor and mental health activist, these statements are objectively inhuman and repulsive.
 
 This isn't a biased statement, **this is a moral truth.** Rape can ruin someone's life and is the most vile form of endangerment to a person because it can traumatise someone for many years or even for life. Unfortunately, I passed through this and my life just became a lot more miserable and I got into very bad habits myself. Richard Stallman dessecrated and minimized this issue, and let's not forget that he called to abort fetuses with Down's syndrome which is bordering into eugenics at this point.
 
 I will not support any software that comes from the Free Software Foundation, until RMS and all of his board of directors are removed from their positions.
+
+By continuing to use GNU programs, we are indirectly perpetuating his stay and letting him get away with his shady tactics and fucked up statements. The best course of action at this point is a boycott.
 
 ## They are not very good programs, actually
 
@@ -28,6 +30,6 @@ Because if this was meant to create a cult, this whole movement would cease to h
 
 Richard Stallman is a very influential personality, which can bend the community at its will. This has clearly been shown by the veneration and support that he has in the free software community. This is cult-ish behaviour, and software isn't about religious tactics nor politics.
 
-If you're a FSF maintainer or are associated with them in some way, **wake up. Realise who you're being lead by.**
+If you're a FSF maintainer or are associated with them in some way, **wake up. Realise who you're being led by.**
 
 Of course, you may have your own motivations for avoiding GNU software and you are very much welcomed to share them as well. I'm pretty sure I'm not alone in this.
