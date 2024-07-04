@@ -60,6 +60,10 @@ Here are free as in freedom non-GNU operating systems that respect your privacy.
 
 **If you have the means and motivation, please help by making more distributions that don't depend on the GNU ecosystem or by helping the distros above with more packages or other activities.**
 
+### Other
+
+* [**Tribblix**](http://www.tribblix.org) - Tribblix is an open source operating system created by Peter Tribble. Based on illumos, it blends a retro style with modern components. **NOTE: This distribution comes with Bash by default, but you can uninstall it easily. Just make sure to change shell before to not break your system.**
+
 ## Text Editor
 
 As far as I know, there isn't a non-GNU implementation of Emacs.
