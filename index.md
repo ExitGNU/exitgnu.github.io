@@ -46,7 +46,11 @@ Here are free as in freedom non-GNU operating systems that respect your privacy.
 
 ### Linux
 
+* [**Iglunix**](https://iglunix.xyz/) - Iglunix is a Linux distribution but, unlike almost all other Linux distributions, it has almost no GNU software.
+
 * [**Alpine Linux**](https://alpinelinux.org/) - Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and busybox. Out of all of the non-GNU distributions that exist so far, this one is probably the most popular.
+
+* [**Chimera Linux**](https://chimera-linux.org/) - Chimera is a general-purpose Linux-based OS born from unhappiness with the status quo. We aim to create a system that is simple, transparent, and easy to pick up, without having to give up practicality and a rich feature set. 
 
 * [**BlissOS**](https://blissos.org) - BlissOS is an Android-based open source OS that incorporates many optimizations, features, and that supports many more devices.
 
@@ -58,11 +62,11 @@ Here are free as in freedom non-GNU operating systems that respect your privacy.
 
 * [**MidnightBSD**](https://www.midnightbsd.org/) - MidnightBSD is a BSD-derived operating system developed with desktop users in mind. It includes all the software you'd expect for your daily tasks — email, web browsing, word processing, gaming, and much more. 
 
-**If you have the means and motivation, please help by making more distributions that don't depend on the GNU ecosystem or by helping the distros above with more packages or other activities.**
-
 ### Other
 
 * [**Tribblix**](http://www.tribblix.org) - Tribblix is an open source operating system created by Peter Tribble. Based on illumos, it blends a retro style with modern components. **NOTE: This distribution comes with Bash by default, but you can uninstall it easily. Just make sure to change shell before to not break your system.**
+
+**If you have the means and motivation, please help by making more distributions that don't depend on the GNU ecosystem or by helping the distros above with more packages or other activities.**
 
 ## Text Editor
 
