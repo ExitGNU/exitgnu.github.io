@@ -1,6 +1,6 @@
 # ExitGNU
 
-This website was made to share alternatives to the GNU ecosystem and [spread the word about Richard Stallman, the biggest monster in the free software community.](https://exitgnu.github.io/motivations)
+This website was made to share alternatives to the GNU ecosystem.
 
 # Alternatives to the GNU ecosystem
 
