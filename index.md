@@ -54,7 +54,7 @@ Here are free as in freedom non-GNU operating systems that respect your privacy.
 
 * [**BlissOS**](https://blissos.org) - BlissOS is an Android-based open source OS that incorporates many optimizations, features, and that supports many more devices.
 
-* [**Gentoo**](https://www.linuxfromscratch.org/) - Gentoo is a highly flexible, source-based Linux distribution. The Gentoo project provides uutils as a GNU drop-in replacement and LLVM stage-3 archives. This distribution is only for very advanced users.
+* [**Gentoo**](https://www.linuxfromscratch.org/) - Gentoo is a highly flexible, source-based Linux distribution. The Gentoo project provides uutils in their repositories as a GNU drop-in replacement and LLVM stage-3 archives. This distribution is only for very advanced users.
 
 * [**Linux from Scratch**](https://www.linuxfromscratch.org/) - Feeling like binary distros are not enough for you? Linux from Scratch is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code. You can build non-GNU installation for your purposes and needs.
 
