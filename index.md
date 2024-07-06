@@ -78,3 +78,11 @@ As far as I know, there isn't a non-GNU implementation of Emacs.
 
 This is a community project! I know I talked a lot about myself here, but I don't want to be the only one yapping here. It would be very much appreciated if you help expand this site. You can suggest more alternatives, and other stuff. [Just open an issue or pull request!](https://github.com/ExitGNU/exitgnu.github.io)
 
+# See also
+
+* ["Linux Isn't Dead, GNU Just Killed Itself" - rwx.gg](https://rwx.gg/views/gnuisdead/)
+* ["YouTube video: Linus Torvalds says GPLv3 violates everything GPLv2 stood for](https://www.youtube.com/watch?v=PaKIZ7gJlRU)
+* ["stuff that sucks" - suckless.org](http://suckless.org/sucks/)
+* ["All software sucks" - cat -v](http://harmful.cat-v.org/software/)
+* [An open letter to remove Richard M. Stallman from all leadership positions](https://rms-open-letter.github.io/)
+
